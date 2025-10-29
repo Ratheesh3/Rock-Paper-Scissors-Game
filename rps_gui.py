@@ -1,5 +1,5 @@
 """
-Rock-Paper-Scissors Modern GUI (Enhanced Version)
+Rock-Paper-Scissors
 Author: Ratheesh
 """
 
